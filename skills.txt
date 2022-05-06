@@ -1,0 +1,15 @@
+1)hard_skills: 
+
+    - theory: testing theory,
+    - types: functional, non_functional,
+    - test design: equivalence classes, boundary values,
+    - testing artefact: test cases, bug reports
+
+
+2) soft_skills: 
+
+    - team: sociability,
+    - completing tasks: creativity,
+    - job: stress_tolerance
+
+

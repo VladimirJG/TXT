@@ -1,0 +1,6 @@
+
+1) likes movie - "Intrstellar"
+2) likes series - "Friends"
+3) likes food - meat_vith_tomato_and_potato
+4) likes season - fall
+5) country would like to visit - Czech Republic
