@@ -1,0 +1,5 @@
+1) Name - Danilov_Vladimir_Vadimovich,
+2) Age -> 36,
+3) Animals -> 0,
+4) First_cash -> 792$
+
